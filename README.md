@@ -7,5 +7,3 @@ The .csv file includes all luminescence data from the manuscript titled "[Lumine
 In the R folder there are some of the scripts. 
 
 In the Python folder there are other scripts based on the classes from Prof. Renato Paes de Almeida. Check his channel on [YouTube](https://www.youtube.com/c/GeologiaSedimentar/playlists).
-
-Ian.
